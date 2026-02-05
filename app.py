@@ -9,7 +9,7 @@ app = Flask (__name__)
 
 
 #load the model 
-model = tf.keras.models.load_model("best_potato_model.keras")
+model = tf.keras.models.load_model("potato_disease_model.keras")
 
 class_names = [ 
                "Potato___Early_blight",
