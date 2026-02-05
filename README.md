@@ -1,1 +1,1 @@
-# potato_disease_prediction
+# Potato_disease_prediction
